@@ -1,0 +1,12 @@
+OmniBar: enabled
+NameplateCooldowns: disabled
+BasicChatMods: disabled
+WeakAuras: enabled
+TidyPlates_ThreatPlates: disabled
+REFlex: enabled
+ATT: disabled
+flyPlateBuffs: disabled
+Lorti UI: enabled
+Dampening_Display: disabled
+BindPad: enabled
+Bartender4: enabled
